@@ -1,0 +1,65 @@
+body{
+    background: linear-gradient(to right bottom, hotpink, mediumpurple);
+    background-size: cover;
+}
+.name{
+    text-align: center;
+    font-size: 7vh;
+    color: #07f8c4;
+    text-shadow: 3px 1px 5px black;
+}
+.conteiner{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+
+button{
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: linear-gradient(45deg, #3d003d, #0384c2);
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+}
+h1{
+    text-align: center;
+    color: #e6f510;
+    text-shadow: 3px 1px 5px black;
+}
+
+#output1{
+    font-size: 2.7vh;
+
+}
+#output2{
+    font-size: 2.7vh;
+    line-height: 4vh;
+    margin-bottom: 8vh;
+}
+#output3{
+    font-size: 2.7vh;
+    line-height: 3vh;
+}
+#output4{
+    font-size: 2.7vh;
+    background-color: black;
+    color: white;
+    padding: 0.5vh 1vw;
+    border-radius: 10px;
+}
+#output5{
+    font-size: 2.7vh;
+    background-color: black;
+    color: white;
+    padding: 0.5vh 1vw;
+    border-radius: 10px;
+}
+#output6 {
+    font-size: 2.7vh;
+    background-color: black;
+    color: white;
+    padding: 0.5vh 1vw;
+    border-radius: 10px;
+}
